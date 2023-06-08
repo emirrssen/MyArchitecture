@@ -1,0 +1,12 @@
+C:\Users\Win10\Documents\My Projects\C# Projects\SchoolProjects\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.exe.config
+C:\Users\Win10\Documents\My Projects\C# Projects\SchoolProjects\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.exe
+C:\Users\Win10\Documents\My Projects\C# Projects\SchoolProjects\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.pdb
+C:\Users\Win10\Documents\My Projects\C# Projects\SchoolProjects\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Win10\Documents\My Projects\C# Projects\SchoolProjects\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Win10\Documents\My Projects\C# Projects\SchoolProjects\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.Properties.Resources.resources
+C:\Users\Win10\Documents\My Projects\C# Projects\SchoolProjects\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Win10\Documents\My Projects\C# Projects\SchoolProjects\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Documents\My Projects\C# Projects\SchoolProjects\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.exe
+C:\Users\Win10\Documents\My Projects\C# Projects\SchoolProjects\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.pdb
+C:\Users\Win10\Documents\My Projects\C# Projects\SchoolProjects\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.LoginScreen.resources
+C:\Users\Win10\Documents\My Projects\C# Projects\SchoolProjects\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.RegisterScreen.resources
